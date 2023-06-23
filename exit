@@ -1,0 +1,140 @@
+[33mcommit 1359ea2de9f78dbf21070b3c99309118aae56a69[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AndreyKhlestov <andrei-h-74@mail.ru>
+Date:   Fri Jun 23 13:14:53 2023 +0000
+
+    first fix Flake8
+
+[33mcommit d0c8da6393ff175531a9674ce29d166a3bb2b547[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AndreyKhlestov <andrei-h-74@mail.ru>
+Date:   Fri Jun 23 12:54:56 2023 +0000
+
+    Add workflow with PEP8 linting
+
+[33mcommit d1e8f7a55edd2dfc135fae61fcffeb6d182b1ed0[m
+Author: AndreyKhlestov <andrei-h-74@mail.ru>
+Date:   Fri Jun 23 12:44:45 2023 +0000
+
+    Add Action
+
+[33mcommit 1908d466a81cb52b4da43fc4bf2737e47b00b33c[m
+Merge: 2465661 b3be788
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Thu May 25 17:10:33 2023 +0300
+
+    Merge pull request #7 from evi1ghost/main
+    
+    fix tasks removal
+
+[33mcommit b3be788e2b5ba9f6395cacd78ea97ffd45bb058b[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Wed May 24 11:41:34 2023 +0300
+
+    fix tasks removal
+
+[33mcommit 2465661c640bc9c51d5c2a8e04718b7b10fdf9ba[m
+Merge: 81dbe68 b602067
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed May 10 15:58:28 2023 +0300
+
+    Merge pull request #6 from zlebnik/main
+    
+    fix: package-lock
+
+[33mcommit b602067b80110f79094c0b6955ffe5a14dad0c5e[m
+Author: Gleb Kovalev <zlebnik@users.noreply.github.com>
+Date:   Wed May 10 15:47:39 2023 +0300
+
+    Update settings.py
+
+[33mcommit 21c0454261a35452c3d03201cf09f168baf7776e[m
+Author: Gleb Kovalev <zlebnik@users.noreply.github.com>
+Date:   Sat May 6 22:14:22 2023 +0300
+
+    fix: add STATIC_ROOT
+
+[33mcommit cc0f49b957c66be57703b82670d278d37af683c5[m
+Author: Gleb Kovalev <kovalev@mindbox.cloud>
+Date:   Fri May 5 19:07:07 2023 +0300
+
+    fix: package-lock
+
+[33mcommit 81dbe683a574df3c068997069386048869dd44fb[m
+Merge: 8895ddc e9a5abe
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Thu May 4 14:38:33 2023 +0300
+
+    Merge pull request #5 from zlebnik/main
+    
+    fix: pep8
+
+[33mcommit e9a5abe7df9581d4dc19e87b61f1fdc5ff200643[m
+Author: Gleb Kovalev <kovalev@mindbox.cloud>
+Date:   Thu May 4 11:04:34 2023 +0300
+
+    fix: pep8
+
+[33mcommit 8895ddce3113673271c6649df4a93eeed63bebc2[m
+Merge: cc6466d 28b9029
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Apr 24 11:31:13 2023 +0100
+
+    Merge pull request #4 from zlebnik/zlebnik-patch-tests
+    
+    fix: add tests to frontend
+
+[33mcommit 28b902978d2b1cc5fefc27b066bbebbd901c8138[m
+Author: Gleb Kovalev <zlebnik@users.noreply.github.com>
+Date:   Mon Apr 24 13:28:17 2023 +0300
+
+    fix: add tests to frontend
+
+[33mcommit cc6466d40a75ffcc9f51ecc2201b36e54c8b66e8[m
+Merge: 55eec15 e851f22
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Apr 24 11:23:36 2023 +0100
+
+    Merge pull request #3 from zlebnik/zlebnik-reqs-patch
+    
+    fix: move requirements to backend
+
+[33mcommit e851f22362ebdf76f9cc54986c8f6dc711eacd8f[m
+Author: Gleb Kovalev <zlebnik@users.noreply.github.com>
+Date:   Mon Apr 24 13:15:03 2023 +0300
+
+    fix: move requirements to backend
+
+[33mcommit 55eec15003b5c5fe733505f2812aca9621ec7470[m
+Merge: 8621a3f 2bbe6fb
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Mar 29 16:21:57 2023 +0300
+
+    Merge pull request #2 from evi1ghost/main
+    
+    fix cors middleware
+
+[33mcommit 2bbe6fb23093c5029881f6e7eaa0ba5829d2501f[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Wed Mar 29 15:40:03 2023 +0300
+
+    fix cors middleware
+
+[33mcommit 8621a3fa75f3ef039d798a4c39f2f460a68b2a70[m
+Merge: a7dfa0c 404c316
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Tue Mar 14 10:14:39 2023 +0100
+
+    Merge pull request #1 from evi1ghost/main
+    
+    add project
+
+[33mcommit 404c316030cc19498e1b25ee697fec78ad32fbca[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Tue Mar 14 10:45:35 2023 +0300
+
+    add project
+
+[33mcommit a7dfa0c38eaa10a52fb98b9fc0dd50e778e0c2f2[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Mar 13 22:18:27 2023 +0000
+
+    Initial commit
